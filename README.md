@@ -1,1 +1,1 @@
-# InstsCoin
+# InstaCoin
